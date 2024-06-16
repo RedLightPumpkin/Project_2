@@ -1,0 +1,3 @@
+C:/Users/kubac/Documents/Projekty/CPP/Project_2/cmake-build-debug/CMakeFiles/Nowy_folder.dir
+C:/Users/kubac/Documents/Projekty/CPP/Project_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kubac/Documents/Projekty/CPP/Project_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
