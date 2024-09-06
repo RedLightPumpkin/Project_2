@@ -1,4 +1,4 @@
-# Project no.2 for the 2nd semester of my IT university work
+# Final project of the 2nd semester of my IT university work
 
 ## This project involves creating a structure named STUDENT with the following fields:
 ```
